@@ -11,3 +11,10 @@ C:\Users\Luume\Documents\Dev\JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.cspro
 C:\Users\Luume\Documents\Dev\JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.csproj.CoreCompileInputs.cache
 C:\Users\Luume\Documents\Dev\JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.exe
 C:\Users\Luume\Documents\Dev\JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.pdb
+C:\Users\Luume\Documents\Dev\jogo-gourmet\JogoGourmet\bin\Debug\JogoGourmet.exe.config
+C:\Users\Luume\Documents\Dev\jogo-gourmet\JogoGourmet\bin\Debug\JogoGourmet.exe
+C:\Users\Luume\Documents\Dev\jogo-gourmet\JogoGourmet\bin\Debug\JogoGourmet.pdb
+C:\Users\Luume\Documents\Dev\jogo-gourmet\JogoGourmet\obj\Debug\JogoGourmet.csproj.AssemblyReference.cache
+C:\Users\Luume\Documents\Dev\jogo-gourmet\JogoGourmet\obj\Debug\JogoGourmet.csproj.CoreCompileInputs.cache
+C:\Users\Luume\Documents\Dev\jogo-gourmet\JogoGourmet\obj\Debug\JogoGourmet.exe
+C:\Users\Luume\Documents\Dev\jogo-gourmet\JogoGourmet\obj\Debug\JogoGourmet.pdb

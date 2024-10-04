@@ -1,0 +1,7 @@
+C:\Users\Luume\Documents\Dev\jogo-gourmet\JogoGourmet\bin\Release\JogoGourmet.exe.config
+C:\Users\Luume\Documents\Dev\jogo-gourmet\JogoGourmet\bin\Release\JogoGourmet.exe
+C:\Users\Luume\Documents\Dev\jogo-gourmet\JogoGourmet\bin\Release\JogoGourmet.pdb
+C:\Users\Luume\Documents\Dev\jogo-gourmet\JogoGourmet\obj\Release\JogoGourmet.csproj.AssemblyReference.cache
+C:\Users\Luume\Documents\Dev\jogo-gourmet\JogoGourmet\obj\Release\JogoGourmet.csproj.CoreCompileInputs.cache
+C:\Users\Luume\Documents\Dev\jogo-gourmet\JogoGourmet\obj\Release\JogoGourmet.exe
+C:\Users\Luume\Documents\Dev\jogo-gourmet\JogoGourmet\obj\Release\JogoGourmet.pdb
